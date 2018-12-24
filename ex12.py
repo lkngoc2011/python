@@ -4,5 +4,3 @@ weight = input("How much do you weight? ")
 
 print("So, you're %r old, %r tall and %r weight"
       % (age, height, weight))
-	  
-print("This is test message")
