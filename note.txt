@@ -1,6 +1,7 @@
 This is use to practice git.
 we will create 4 branches for master:
 	add_branch
+		sub_add_branch
 	subtract_branch
 	multiply_branch
 	divide_branch
